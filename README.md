@@ -11,6 +11,6 @@ Technical steps:
 - Pair the static site to a CMS (Forestry)
 - Deploy on Netlify
 
-> Read the [blog post here](https://snipcart.com/blog/hugo-tutorial-static-site-ecommerce)
 
-> Try the [demo here](https://snipcart-hugo-forestry.netlify.com/)
+
+Running the site: hugo server -D
